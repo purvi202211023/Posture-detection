@@ -21,7 +21,7 @@ distance =  \sqrt{(x2 - x1)^2+(y2 - y1)^2}
 This is the primary deterministic factor for the posture. Using the angle subtended by the neck line and the torso line to y-axis. The neck line connects the shoulder and the eye, here we take shoulder as the pivotal point. Similarly the torso line connects hip and the shoulder, where hip is considered pivotal point. 
 <br>
 
-<img src="https://learnopencv.com/wp-content/uploads/2022/03/mp-pose-05-neckline-inclination.jpg" alt="MediaPipe pose neck inclination" align="middle" width="500" height="600">
+<img src="https://learnopencv.com/wp-content/uploads/2022/03/mp-pose-05-neckline-inclination.jpg" alt="MediaPipe pose neck inclination" align="middle" width="300" height="250">
 
 <br>
 
